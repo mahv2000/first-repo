@@ -1,4 +1,4 @@
 # first-repo
 First repository created in GitHub
 
-New modification to this file with Atom Text Editor
+New modification to README file with Atom Text Editor
